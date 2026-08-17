@@ -1,0 +1,11 @@
+Cell line: HEK293T
+
+Experimental conditions:
+- Untreated control
+- BNT formulation
+- TriB35/mRNA 1:1
+- TriB35/mRNA 3:1
+- TriB35/mRNA 10:1
+
+Sequencing type: Bulk RNA sequencing
+Library type: Paired-end
